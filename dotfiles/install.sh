@@ -2,4 +2,5 @@
 
 sudo pacman --needed -S rxvt-unicode rofi polybar i3 picom
 
-cp -R . ~
+cp Xresources ~/.Xresources
+cp -R config ~/.config
