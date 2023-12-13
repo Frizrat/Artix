@@ -2,5 +2,5 @@
 
 sudo pacman --needed -S rxvt-unicode rofi polybar i3 picom ttf-font-awesome
 
-cp Xresources ~/.Xresources
+cp Xdefaults ~/.Xdefaults
 cp -R config/* ~/.config
